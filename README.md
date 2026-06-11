@@ -84,6 +84,7 @@ php vulnerable.php
 ## References
 - [PHPGGC Gadget Chains](https://github.com/ambionics/phpggc)[web:9]
 - [PHP Object Injection Patterns](https://www.invicti.com/blog/web-security/untrusted-data-unserialize-php/)[web:13]
+- CVE-2026-7317
 - [Laravel Deserialization Chains](https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html)[web:15]
 
 ---
